@@ -1,0 +1,35 @@
+# Arquivo de configuração de tema do Streamlit
+# .streamlit/config.toml
+
+[theme]
+# Cor primária de destaque (para widgets interativos, bordas, etc.)
+primaryColor = "#2E8B57"
+
+# Cor de fundo principal da aplicação (pode manter o padrão escuro)
+backgroundColor = "#0E1117"
+
+# Cor de fundo para elementos secundários (como a barra lateral)
+secondaryBackgroundColor = "#262730"
+
+# Cor do texto principal
+textColor = "#FAFAFA"
+
+# Fonte que será usada (sans serif, serif, ou monospace)
+font = "sans serif"# Arquivo de configuração de tema do Streamlit
+# .streamlit/config.toml
+
+[theme]
+# Cor primária de destaque (para widgets interativos, bordas, etc.)
+primaryColor = "#2E8B57"
+
+# Cor de fundo principal da aplicação (pode manter o padrão escuro)
+backgroundColor = "#2f18e0ff"
+
+# Cor de fundo para elementos secundários (como a barra lateral)
+secondaryBackgroundColor = "#262730"
+
+# Cor do texto principal
+textColor = "#FAFAFA"
+
+# Fonte que será usada (sans serif, serif, ou monospace)
+font = "sans serif"
